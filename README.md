@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jovaz21/evented_bloc/blob/main/screenshots/logo.png" height="300" alt="Evented Bloc">
+  <img src="https://github.com/jovazcode/evented_bloc/blob/main/screenshots/logo.png" height="300" alt="Evented Bloc">
 </p>
 
 # Evented Bloc
@@ -10,10 +10,10 @@
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
 
-[build_link]: https://github.com/jovaz21/evented_bloc/actions/workflows/main.yaml
+[build_link]: https://github.com/jovazcode/evented_bloc/actions/workflows/main.yaml
 [pub_link]: https://pub.dev/packages/evented_bloc
-[build_badge]: https://github.com/jovaz21/evented_bloc/actions/workflows/main.yaml/badge.svg
-[coverage_badge]: https://github.com/jovaz21/evented_bloc/blob/main/coverage_badge.svg
+[build_badge]: https://github.com/jovazcode/evented_bloc/actions/workflows/main.yaml/badge.svg
+[coverage_badge]: https://github.com/jovazcode/evented_bloc/blob/main/coverage_badge.svg
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license_link]: https://opensource.org/licenses/MIT
 [pub_badge]: https://img.shields.io/pub/v/evented_bloc.svg
