@@ -1,7 +1,7 @@
 name: evented_bloc
 description: An extension to the bloc state management library which adds
   support for firing outgoing events from blocs to external listeners.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/jovazcode/evented_bloc
 topics:
   [
