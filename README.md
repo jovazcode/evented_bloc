@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jovazcode/evented_bloc/blob/main/screenshots/logo.png" height="300" alt="Evented Bloc">
+  <img src="https://github.com/jovazcode/evented_bloc/raw/main/screenshots/logo.png" height="300" alt="Evented Bloc">
 </p>
 
 # Evented Bloc
